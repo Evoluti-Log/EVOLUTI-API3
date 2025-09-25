@@ -4,7 +4,7 @@ Template para os projetos de API, ensinando na utilização do repositório digi
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
-# Índice
+# <img src="https://cdn-icons-png.flaticon.com/512/3597/3597194.png" width="40"/> Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Equipe](#Equipe)
 * [Backlog do produto](#Product-Backlog)
@@ -12,7 +12,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Registro das Sprints](#Registro-das-Sprints)
 
 
-# Projeto (API) 
+# <img src="https://cdn-icons-png.flaticon.com/512/8488/8488719.png" width="40"/> Projeto (API) 
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprint
@@ -39,12 +39,13 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 ## Tecnologias Utilizadas
 
-* Jira Software
-* Power BI
-* Microsoft Excel
-* Slack
-* Python (Colab)
-* Mysql
+* <img src="https://images.icon-icons.com/2699/PNG/512/atlassian_jira_logo_icon_170511.png" width="40"/> Jira Software
+* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" width="40"/> Power BI
+* <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt__gdZwhO3aSPCNy6b8HwnR5E5AARVCA1wQ&s" width="40"/> Microsoft Excel
+* <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi_3XZlnOm4DOJabuOzmsjjPrzM9_j9M4NgA&s" width="40"/> Slack
+* <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBgY4Wfy9hXIn-GOD3xvwiisF8GM97MiktoA&s" width="40"/> Python
+* <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvyuHWMd6UOi4d_oVuHTBZsGvS7kG6TFK2yQ&s" width="40"/> Colab
+* <img src="https://pngimg.com/uploads/mysql/small/mysql_PNG11.png" width="40"/> Mysql
 
 
 
@@ -67,8 +68,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp1.md)  |
-| 02                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp2.md)  |
-| 03                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | dd/mm/aaaa | a fazer  | [MVP](#)  |
+| 01                | 03/10/2025 | Em andamento  | [MVP](MVP/sp1.md)  |
+| 02                | 24/10/2025 | a fazer  | [MVP](MVP/sp2.md)  |
+| 03                | 14/11/2025 | a fazer  | [MVP](MVP/sp3.md)  |
+| Feira de Soluções | 04/12/2025 | a fazer  | [MVP](#)  |
 
