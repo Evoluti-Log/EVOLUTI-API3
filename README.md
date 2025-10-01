@@ -1,10 +1,13 @@
+<img width="900" height="300" alt="image" src="https://github.com/user-attachments/assets/65c50bbe-9c4f-418a-a618-3690d0234b29" />
+
+
 # Aprendizado por Projeto Integrado (API) - Template
 
 Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
-# <img src="https://cdn-icons-png.flaticon.com/512/3597/3597194.png" width="40"/> Índice
+# <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/e6cafe5c-3d6f-461a-bddf-b057faa959f0" />Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Equipe](#Equipe)
 * [Backlog do produto](#Product-Backlog)
@@ -12,14 +15,14 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Registro das Sprints](#Registro-das-Sprints)
 
 
-# <img src="https://cdn-icons-png.flaticon.com/512/8488/8488719.png" width="40"/> Projeto (API) 
+# <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/b5d9dd15-07ed-4042-8ecd-a8c04368c45a" />Projeto (API) 
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprint
 
 
 
-# Equipe
+# <img width="40" height="80" alt="image" src="https://github.com/user-attachments/assets/0f9f6bcf-388e-4bf7-b9d6-6e7ddb8fb954" />Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner  | Gustavo Tavares   |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-tavares-431956308/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gustavontavares)   |
@@ -30,7 +33,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 
 
-# Objetivo do Projeto
+# <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/28f2b862-7bcb-4a2c-a67c-4936447b1507" />Objetivo do Projeto
 Desenvolver uma ferramenta integrada capaz de consolidar e cruzar dados provenientes de diferentes bases públicas — PRF, DATASUS, DENATRAN e IBGE — com o objetivo de analisar indicadores de sinistralidade no trânsito. O sistema deverá gerar métricas em níveis estadual e nacional, incluindo mortalidade, gravidade dos sinistros, índice de motorização, tamanho da frota, população, entre outros indicadores relevantes.
 
 
