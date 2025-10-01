@@ -1,19 +1,22 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - [EVOLUTI]
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+
+- O objetivo deste MVP é desenvolver uma ferramenta que integre dados públicos provenientes de diferentes fontes — PRF, DATASUS, DENATRAN e IBGE — para analisar de forma abrangente os indicadores de sinistralidade no trânsito no Brasil. A proposta do MVP é unificar essas bases em uma única plataforma, permitindo a visualização de métricas por estado e em nível nacional.
+
+- Ao centralizar e facilitar o acesso a esses indicadores, o sistema visa aprimorar a compreensão sobre os fatores que influenciam a sinistralidade e contribuir para ações mais eficazes de prevenção e redução de acidentes.
+
+- A hipótese que será validada com o MVP é que a integração de múltiplas bases públicas de dados em uma plataforma de BI facilita a análise e interpretação das informações sobre sinistros de trânsito, promovendo maior eficiência na elaboração de políticas públicas e estratégias de segurança viária.
 
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+ 
+- O MVP incluirá funcionalidades básicas, como a conexão inicial com as bases de dados, além de um painel interativo (dashboard) que mostrará informações como a mortalidade no trânsito por estado, o índice de motorização (relação entre veículos e população) e a participação de motocicletas nos acidentes. Os usuários poderão aplicar filtros por estado e por ano.
 
+- No entanto, esta primeira versão ainda terá algumas limitações. A integração das bases será parcial, com foco em um recorte mais limitado (como os últimos cinco anos).
+
+- O escopo deste MVP será propositalmente reduzido para validar a ideia com o mínimo necessário. A prioridade será integrar pelo menos duas bases de dados e entregar visualizações simples, mas que já ajudem a entender melhor a realidade do trânsito no Brasil.
 ---
 
 ## 👥 Personas / Usuários-Alvo
