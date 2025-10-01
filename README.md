@@ -31,12 +31,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+Desenvolver uma ferramenta integrada capaz de consolidar e cruzar dados provenientes de diferentes bases públicas — PRF, DATASUS, DENATRAN e IBGE — com o objetivo de analisar indicadores de sinistralidade no trânsito. O sistema deverá gerar métricas em níveis estadual e nacional, incluindo mortalidade, gravidade dos sinistros, índice de motorização, tamanho da frota, população, entre outros indicadores relevantes.
 
 
 ## Tecnologias Utilizadas
@@ -55,11 +50,17 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como síndico, quero abrir solicitações de vistoria predial para atender à legislação de meu município                                                    | 5          | 1      |
-| 2    | Alta       | Como atendente, quero gerenciar as solicitações de vistoria para agendar atendimento                                                                    | 8          | 1      |
-| 3    | Alta       | Como síndico, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura                                               | 5          | 2      |
-| ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
-| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
+| 1    | Alta       | Como analista de dados, quero importar os dados da PRF, para ter informações atualizadas sobre acidentes de trânsito  | 5          | 1      |
+| 2    | Média       | Como engenheiro de dados, quero identificar e remover registros duplicados para garantir a integridade dos dados                                                                   | 8          | 1      |
+| 3    | Alta       | Como cientista de dados, quero padronizar os campos de data, localidade e tipo de acidente para facilitar a análise                                               | 5          | 1      |
+| 4    | Alta       | Como analista de dados, quero aplicar filtros nos dados da PRF ou RENAEST dentro do sistema de BI para que eu possa realizar analises mais especificas e customizadas, filtrando as informações de acordo com o criterio como data, tipo de infração e localização   | 5          | 1      |
+| 5    | Média       | Como gestor de projeto, quero definir os KPIs que serão exibidos no dashboard para garantir que os dados sejam úteis na tomada de decisão.                                                                   | 8          | 2     |
+| 6    | Alta       | Como usuário, quero filtrar os dados por estado, ano e tipo de acidente para explorar as informações conforme minha necessidade.                                              | 5          | 2      |
+| 7    | Baixa       | Como designer de produto, quero criar uma maquete visual do dashboard para validação com os stakeholders  | 5          | 2     |
+| 8    | Alta       | Como analista, quero ver um mapa com pontos críticos de acidentes para identificar áreas de maior risco                                                                  | 8          | 2     |
+| 09    | Média       | Como PM, quero testar o dashboard com gestores públicos para avaliar a experiência de uso | 5          | 3      |
+| 10    | Alta       | Como desenvolvedor, quero ajustar o dashboard conforme sugestões dos usuários para melhorar a utilidade                                                                  | 8          | 3     |
+| 11    | Média       | Como usuário final, quero ter um manual de uso do dashboard para entender todas as funcionalidades                                              | 5          | 3      |
 
 
 
