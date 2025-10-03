@@ -28,16 +28,25 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US1 | Como analista de dados, quero importar os dados do RENAEST, para ter informações atualizadas sobre acidentes de trânsito.        | Alta       | 5 pontos   |
+| US2 | Como analista de dados, quero identificar e remover registros duplicados para garantir a integridade dos dados.         | Média      | 8 pontos   |
+| US3 | Como analista de dados, quero padronizar os campos de data, localidade e tipo de acidente para facilitar a análise.        | Média       | 5 pontos   |
+| US4 | Como analista de dados, quero aplicar filtros nos dados do RENAEST dentro do sistema de BI para que eu possa realizar analises mais especificas e customizadas, filtrando as informações de acordo com os dados da base.         | Alta      | 8 pontos   |
+| US5 | Como analista de dados, quero visualizar o número de acidentes por localidade, para identificar regiões com maior risco.        | Alta       | 5 pontos   |
+| US6 |Como gestor do projeto, quero consultar os tipos de veículos mais envolvidos em acidentes.    | Alta      | 8 pontos   |
+| US7 | Como gestor do projeto, quero acessar o número de vítimas em acidentes por cidade.        | Alta       | 8 pontos   |
+| US8 |Como analista de dados, quero comparar dados de acidentes por localidade ao logo dos últimos 5 anos. | Alta      | 8 pontos   |
+
 
 ---
 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     | Base de dados RENAEST.                        | Concluído|
+| 02     | Dashboard com funcionalidades básicas.        | Concluído |
+| 03     | Filtros com informações sobre localidade, acidentes, vítimas e tipos de veículos.      | Concluído |
+
 
 ---
 
@@ -45,13 +54,6 @@
 - O MVP deve permitir que o usuário [ação principal]  
 - O sistema deve registrar [evento importante]  
 - Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
-
----
-
-## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
 
 ---
 
