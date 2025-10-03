@@ -12,17 +12,17 @@
 
 ## 📝 Descrição da Solução
  
-- O MVP incluirá funcionalidades básicas, como a conexão inicial com as bases de dados, além de um painel interativo (dashboard) que mostrará informações como a mortalidade no trânsito por estado, o índice de motorização (relação entre veículos e população) e a participação de motocicletas nos acidentes. Os usuários poderão aplicar filtros por estado e por ano.
+- O MVP incluirá funcionalidades básicas, inicialmente utilizando o RENAEST como base de dados, além de um painel interativo (dashboard) que mostrará informações como, localidade, acidentes, vítimas e tipos de veículos.
 
-- No entanto, esta primeira versão ainda terá algumas limitações. A integração das bases será parcial, com foco em um recorte mais limitado (como os últimos cinco anos).
-
-- O escopo deste MVP será propositalmente reduzido para validar a ideia com o mínimo necessário. A prioridade será integrar pelo menos duas bases de dados e entregar visualizações simples, mas que já ajudem a entender melhor a realidade do trânsito no Brasil.
+- De início, filtramos as bases dos últimos 5 anos do RENAEST.
+  
+- O escopo deste MVP será propositalmente reduzido para validar a ideia com o mínimo necessário. A prioridade será apresentar dados do RENAEST com visualizações simples, mas que já ajudem a entender melhor a realidade do trânsito no Brasil.
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
-
+- **Analista de dados:** Representado pelo coodernador Marcus Vinícius Nascimento
+  
+- **Gestor do projeto:** Representado por Carlos Bastos 
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
