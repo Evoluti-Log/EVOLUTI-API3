@@ -53,17 +53,21 @@ Desenvolver uma ferramenta integrada capaz de consolidar e cruzar dados provenie
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como analista de dados, quero importar os dados da PRF, para ter informações atualizadas sobre acidentes de trânsito  | 5          | 1      |
-| 2    | Média       | Como engenheiro de dados, quero identificar e remover registros duplicados para garantir a integridade dos dados                                                                   | 8          | 1      |
-| 3    | Alta       | Como cientista de dados, quero padronizar os campos de data, localidade e tipo de acidente para facilitar a análise                                               | 5          | 1      |
-| 4    | Alta       | Como analista de dados, quero aplicar filtros nos dados da PRF ou RENAEST dentro do sistema de BI para que eu possa realizar analises mais especificas e customizadas, filtrando as informações de acordo com o criterio como data, tipo de infração e localização   | 5          | 1      |
-| 5    | Média       | Como gestor de projeto, quero definir os KPIs que serão exibidos no dashboard para garantir que os dados sejam úteis na tomada de decisão.                                                                   | 8          | 2     |
-| 6    | Alta       | Como usuário, quero filtrar os dados por estado, ano e tipo de acidente para explorar as informações conforme minha necessidade.                                              | 5          | 2      |
-| 7    | Baixa       | Como designer de produto, quero criar uma maquete visual do dashboard para validação com os stakeholders  | 5          | 2     |
-| 8    | Alta       | Como analista, quero ver um mapa com pontos críticos de acidentes para identificar áreas de maior risco                                                                  | 8          | 2     |
-| 09    | Média       | Como PM, quero testar o dashboard com gestores públicos para avaliar a experiência de uso | 5          | 3      |
-| 10    | Alta       | Como desenvolvedor, quero ajustar o dashboard conforme sugestões dos usuários para melhorar a utilidade                                                                  | 8          | 3     |
-| 11    | Média       | Como usuário final, quero ter um manual de uso do dashboard para entender todas as funcionalidades                                              | 5          | 3      |
+| 1    | Alta       | Como analista de dados, quero importar os dados do RENAEST, para ter informações atualizadas sobre acidentes de trânsito.  | 5          | 1      |
+| 2    | Média       | Como analista de dados, quero identificar e remover registros duplicados para garantir a integridade dos dados.                                                                   | 8          | 1      |
+| 3    | Média       | Como analista de dados, quero padronizar os campos de data, localidade e tipo de acidente para facilitar a análise.                                               | 5          | 1      |
+| 4    | Alta       | Como analista de dados, quero aplicar filtros nos dados do RENAEST dentro do sistema de BI para que eu possa realizar analises mais especificas e customizadas, filtrando as informações de acordo com os dados da base.   | 8         | 1      |
+| 5    | Alta       | Como analista de dados, quero visualizar o número de acidentes por localidade, para identificar regiões com maior risco.   | 5          | 1      |
+| 6    | Alta       | Como gestor do projeto, quero consultar os tipos de veículos mais envolvidos em acidentes.   | 5          | 1      |
+| 7    | Alta       | Como gestor do projeto, quero acessar o número de vítimas em acidentes por cidade.   |8         | 1      |
+| 8    | Alta       | Como analista de dados, quero comparar dados de acidentes por localidade ao logo dos últimos 5 anos.   | 5          | 1      |
+| 9    | Média       | Como gestor de projeto, quero definir os KPIs que serão exibidos no dashboard para garantir que os dados sejam úteis na tomada de decisão.                                                                   | 8          | 2     |
+| 10    | Alta       | Como usuário, quero filtrar os dados por estado, ano e tipo de acidente para explorar as informações conforme minha necessidade.                                              | 5          | 2      |
+| 11    | Baixa       | Como designer de produto, quero criar uma maquete visual do dashboard para validação com os stakeholders  | 5          | 2     |
+| 12    | Alta       | Como analista, quero ver um mapa com pontos críticos de acidentes para identificar áreas de maior risco                                                                  | 8          | 2     |
+| 13    | Média       | Como PM, quero testar o dashboard com gestores públicos para avaliar a experiência de uso | 5          | 3      |
+| 14    | Alta       | Como desenvolvedor, quero ajustar o dashboard conforme sugestões dos usuários para melhorar a utilidade                                                                  | 8          | 3     |
+| 15    | Média       | Como usuário final, quero ter um manual de uso do dashboard para entender todas as funcionalidades                                              | 5          | 3      |
 
 
 
@@ -74,7 +78,7 @@ Desenvolver uma ferramenta integrada capaz de consolidar e cruzar dados provenie
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | 03/10/2025 | Em andamento  | [MVP](MVP/sp1.md)  |
-| 02                | 24/10/2025 | a fazer  | [MVP](MVP/sp2.md)  |
+| 01                | 03/10/2025 | Concluído  | [MVP](MVP/sp1.md)  |
+| 02                | 24/10/2025 | Em andamento  | [MVP](MVP/sp2.md)  |
 | 03                | 14/11/2025 | a fazer  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 04/12/2025 | a fazer  | [MVP](#)  |
