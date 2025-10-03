@@ -60,7 +60,7 @@ Desenvolver uma ferramenta integrada capaz de consolidar e cruzar dados provenie
 | 3    | Média       | Como analista de dados, quero padronizar os campos de data, localidade e tipo de acidente para facilitar a análise.                                               | 5          | 1      |
 | 4    | Alta       | Como analista de dados, quero aplicar filtros nos dados do RENAEST dentro do sistema de BI para que eu possa realizar analises mais especificas e customizadas, filtrando as informações de acordo com os dados da base.   | 8         | 1      |
 | 5    | Alta       | Como analista de dados, quero visualizar o número de acidentes por localidade, para identificar regiões com maior risco.   | 5          | 1      |
-| 6    | Alta       | Como gestor do projeto, quero consultar os tipos de veículos mais envolvidos em acidentes.   | 5          | 1      |
+| 6    | Alta       | Como gestor do projeto, quero consultar os tipos de acidente com maior incidência.   | 5          | 1      |
 | 7    | Alta       | Como gestor do projeto, quero acessar o número de vítimas em acidentes por cidade.   |8         | 1      |
 | 8    | Alta       | Como analista de dados, quero comparar dados de acidentes por localidade ao logo dos últimos 5 anos.   | 5          | 1      |
 | 9    | Média       | Como gestor de projeto, quero definir os KPIs que serão exibidos no dashboard para garantir que os dados sejam úteis na tomada de decisão.                                                                   | 8          | 2     |
