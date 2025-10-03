@@ -44,10 +44,8 @@ Desenvolver uma ferramenta integrada capaz de consolidar e cruzar dados provenie
 * <img src="https://images.icon-icons.com/2699/PNG/512/atlassian_jira_logo_icon_170511.png" width="40"/> Jira Software
 * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" width="40"/> Power BI
 * <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt__gdZwhO3aSPCNy6b8HwnR5E5AARVCA1wQ&s" width="40"/> Microsoft Excel
-* <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi_3XZlnOm4DOJabuOzmsjjPrzM9_j9M4NgA&s" width="40"/> Slack
 * <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBgY4Wfy9hXIn-GOD3xvwiisF8GM97MiktoA&s" width="40"/> Python
 * <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvyuHWMd6UOi4d_oVuHTBZsGvS7kG6TFK2yQ&s" width="40"/> Colab
-* <img src="https://pngimg.com/uploads/mysql/small/mysql_PNG11.png" width="40"/> Mysql
 * <img src="https://img.freepik.com/vetores-premium/icones-de-midias-sociais-para-download-gratuito_1043920-192.jpg?semt=ais_hybrid&w=740&q=80" width="40"/> WhatsApp
 
 
