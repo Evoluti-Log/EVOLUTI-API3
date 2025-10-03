@@ -1,4 +1,4 @@
-<img width="900" height="300" alt="image" src="https://github.com/user-attachments/assets/65c50bbe-9c4f-418a-a618-3690d0234b29" />
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/65c50bbe-9c4f-418a-a618-3690d0234b29" />
 
 
 # Aprendizado por Projeto Integrado (API) - Template
