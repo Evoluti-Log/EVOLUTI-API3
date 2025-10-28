@@ -5,7 +5,7 @@
 
 - Ao centralizar e facilitar o acesso a esses indicadores, o sistema visa aprimorar a compreensão sobre os fatores que influenciam a sinistralidade e contribuir para ações mais eficazes de prevenção e redução de acidentes.
   
-- Qual valor será entregue ao usuário final?  
+- A hipótese que será validada com o MVP é que a integração de múltiplas bases públicas de dados em uma plataforma de BI facilita a análise e interpretação das informações sobre sinistros de trânsito, promovendo maior eficiência na elaboração de políticas públicas e estratégias de segurança viária. 
 
 ---
 
