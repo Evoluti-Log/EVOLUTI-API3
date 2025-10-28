@@ -1,8 +1,8 @@
 # 📌 MVP - Desenvolvimento de um dashboard interativo com dados agregados de segurança viária, permitindo análises comparativas entre estados e indicadores de risco em todo o território nacional
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
+- O objetivo deste MVP é desenvolver uma ferramenta que integre dados públicos provenientes de diferentes fontes — PRF, DATASUS, DENATRAN e IBGE — para analisar de forma abrangente os indicadores de sinistralidade no trânsito no Brasil. A proposta do MVP é unificar essas bases em uma única plataforma, permitindo a visualização de métricas por estado e em nível nacional.
+
 - Qual hipótese será validada?  
 - Qual valor será entregue ao usuário final?  
 
