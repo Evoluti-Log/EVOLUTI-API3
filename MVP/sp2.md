@@ -37,15 +37,9 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
-
----
-
-## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+| 01     | Base de dados RENAEST e PRF.                       | Concluído|
+| 02     | Dashboard relacionando as duas bases de dados.     | Concluído |
+| 03     | Filtros de tempo, localidade, vítimas e causas.    | Concluído |
 
 ---
 
