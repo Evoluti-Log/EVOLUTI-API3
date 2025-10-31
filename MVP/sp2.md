@@ -29,7 +29,7 @@
 | US1    | Como analista de dados, quero importar os dados da PRF e RENAEST para o ambiente de BI, para iniciar a consolidação.                                                                 | Alta          | 8 |
 | US2    | Como analista, quero tratar e limpar os dados faltantes e valores atípicos, para garantir a qualidade das análises.                                              | Alta          | 5      |
 | US3    | Como analista de dados, quero criar o modelo relacional entre as tabelas para permitir cruzamento entre acidentes e vítimas.  | Média         | 5     |
-| US4    |  Como analista, quero criar dimensões de tempo (ano, mês, dia) para análises temporais.| Média| 8     |
+| US4    |  Como analista, quero criar dimensões de tempo (ano) para análises temporais.| Média| 8     |
 | US5    | Como gestor do projeto, quero visualizar o número de acidentes por tipo e UF.| Alta          | 8  |                     
 
 ---
@@ -51,6 +51,5 @@
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+![shared image (2)](https://github.com/user-attachments/assets/54d653ca-4f5b-4c2c-9077-d4e6c6d33997)
+
