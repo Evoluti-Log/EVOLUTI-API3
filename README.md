@@ -63,13 +63,14 @@ Desenvolver uma ferramenta integrada capaz de consolidar e cruzar dados provenie
 | 6    | Alta       | Como gestor do projeto, quero consultar os tipos de acidente com maior incidência.   | 5          | 1      |
 | 7    | Alta       | Como gestor do projeto, quero acessar o número de vítimas em acidentes por cidade.   |8         | 1      |
 | 8    | Alta       | Como analista de dados, quero comparar dados de acidentes por localidade ao logo dos últimos 5 anos.   | 5          | 1      |
-| 9    | Média       | Como gestor de projeto, quero definir os KPIs que serão exibidos no dashboard para garantir que os dados sejam úteis na tomada de decisão.                                                                   | 8          | 2     |
-| 10    | Alta       | Como usuário, quero filtrar os dados por estado, ano e tipo de acidente para explorar as informações conforme minha necessidade.                                              | 5          | 2      |
-| 11    | Baixa       | Como designer de produto, quero criar uma maquete visual do dashboard para validação com os stakeholders  | 5          | 2     |
-| 12    | Alta       | Como analista, quero ver um mapa com pontos críticos de acidentes para identificar áreas de maior risco                                                                  | 8          | 2     |
-| 13    | Média       | Como PM, quero testar o dashboard com gestores públicos para avaliar a experiência de uso | 5          | 3      |
-| 14    | Alta       | Como desenvolvedor, quero ajustar o dashboard conforme sugestões dos usuários para melhorar a utilidade                                                                  | 8          | 3     |
-| 15    | Média       | Como usuário final, quero ter um manual de uso do dashboard para entender todas as funcionalidades                                              | 5          | 3      |
+| 9    | Alta       | Como analista de dados, quero importar os dados da PRF e RENAEST para o ambiente de BI, para iniciar a consolidação.                                                                 | 8          | 2     |
+| 10    | Alta       |Como analista, quero tratar e limpar os dados faltantes e valores atípicos, para garantir a qualidade das análises.                                              | 5          | 2      |
+| 11    | Média       | Como analista de dados, quero criar o modelo relacional entre as tabelas para permitir cruzamento entre acidentes e vítimas.  | 5          | 2     |
+| 12    | Média       | Como analista, quero criar dimensões de tempo (ano, mês, dia) para análises temporais.                                                              | 8          | 2     |
+| 13    | Alta       | Como gestor de segurança, quero visualizar o número de acidentes por tipo e UF.                                                                 | 8          | 2     |                     
+| 14    | Média       | Como PM, quero testar o dashboard com gestores públicos para avaliar a experiência de uso | 5          | 3      |
+| 15    | Alta       | Como desenvolvedor, quero ajustar o dashboard conforme sugestões dos usuários para melhorar a utilidade                                                                  | 8          | 3     |
+| 16    | Média       | Como usuário final, quero ter um manual de uso do dashboard para entender todas as funcionalidades                                              | 5          | 3      |
 
 
 
@@ -82,5 +83,5 @@ Desenvolver uma ferramenta integrada capaz de consolidar e cruzar dados provenie
 |-------------------|------------|----------|-----------|
 | 01                | 03/10/2025 | Concluído  | [MVP](MVP/sp1.md)  |
 | 02                | 31/10/2025 | Concluído  | [MVP](MVP/sp2.md)  |
-| 03                | 14/11/2025 | a fazer  | [MVP](MVP/sp3.md)  |
+| 03                | 14/11/2025 | Em andamento  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 04/12/2025 | a fazer  | [MVP](#)  |
