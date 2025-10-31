@@ -43,9 +43,9 @@
 
 ---
 ## 📊 Critérios de Aceitação
-- No primeiro gráfico mostraremos a quantidade de acidente por mês e ano.  
-- Número de acidentes por Unidades Federativas.  
-- Filtros com os tipos de acidentes, condições metereológicas e fases do dia
+- No primeiro gráfico mostraremos os tipos de acidentes e os envolvidos.
+- No segundo, a quantidade de acidentes por estados de 2020 á 2025.
+
 
 ---
 
