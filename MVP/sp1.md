@@ -65,6 +65,5 @@
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+![shared image (3)](https://github.com/user-attachments/assets/53978041-584f-4c06-8967-7a1591a63f4a)
+
