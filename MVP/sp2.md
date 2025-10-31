@@ -10,10 +10,9 @@
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+- Nesta sprint será desenvolvido o BI de Sinistralidade no Trânsito, com foco na integração e consolidação dos dados das bases PRF e RENAEST. As atividades incluem a importação, limpeza e padronização das informações, criação do modelo de dados relacional e definição de ligação entre acidentes e vítimas. Também serão geradas as métricas e visualizações no Power BI, como número de acidentes, vítimas por tipo e distribuição por UF e rodovia.
+
+- Ao final da sprint, espera-se obter um protótipo funcional e validado do BI, capaz de cruzar dados das diferentes fontes e oferecer uma visão dos principais indicadores de sinistralidade.
 
 ---
 
@@ -27,8 +26,11 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US1    | Como analista de dados, quero importar os dados da PRF e RENAEST para o ambiente de BI, para iniciar a consolidação.                                                                 | Alta          | 8 |
+| US2    | Como analista, quero tratar e limpar os dados faltantes e valores atípicos, para garantir a qualidade das análises.                                              | Alta          | 5      |
+| US3    | Como analista de dados, quero criar o modelo relacional entre as tabelas para permitir cruzamento entre acidentes e vítimas.  | Média         | 5     |
+| US4    |  Como analista, quero criar dimensões de tempo (ano, mês, dia) para análises temporais.| Média| 8     |
+| US5    | Como gestor de segurança, quero visualizar o número de acidentes por tipo e UF.| Alta          | 8  |                     
 
 ---
 
