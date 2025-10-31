@@ -42,6 +42,12 @@
 | 03     | Filtros de tempo, localidade, vítimas e causas.    | Concluído |
 
 ---
+## 📊 Critérios de Aceitação
+- No primeiro gráfico mostraremos a quantidade de acidente por mês e ano.  
+- Número de acidentes por Unidades Federativas.  
+- Filtros com os tipos de acidentes, condições metereológicas e fases do dia
+
+---
 
 ## 🚀 Próximos Passos
 - Melhorias planejadas após feedback  
