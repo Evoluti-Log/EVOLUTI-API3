@@ -30,7 +30,7 @@
 | US2    | Como analista, quero tratar e limpar os dados faltantes e valores atípicos, para garantir a qualidade das análises.                                              | Alta          | 5      |
 | US3    | Como analista de dados, quero criar o modelo relacional entre as tabelas para permitir cruzamento entre acidentes e vítimas.  | Média         | 5     |
 | US4    |  Como analista, quero criar dimensões de tempo (ano, mês, dia) para análises temporais.| Média| 8     |
-| US5    | Como gestor de segurança, quero visualizar o número de acidentes por tipo e UF.| Alta          | 8  |                     
+| US5    | Como gestor do projeto, quero visualizar o número de acidentes por tipo e UF.| Alta          | 8  |                     
 
 ---
 
