@@ -83,5 +83,5 @@ Desenvolver uma ferramenta integrada capaz de consolidar e cruzar dados provenie
 |-------------------|------------|----------|-----------|
 | 01                | 03/10/2025 | Concluído  | [MVP](MVP/sp1.md)  |
 | 02                | 31/10/2025 | Concluído  | [MVP](MVP/sp2.md)  |
-| 03                | 28/11/2025 | Em andamento  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | 04/12/2025 | a fazer  | [MVP](#)  |
+| 03                | 28/11/2025 | Concluído  | [MVP](MVP/sp3.md)  |
+| Feira de Soluções | 04/12/2025 | Em andamento  | [MVP](#)  |
