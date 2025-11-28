@@ -1,4 +1,4 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - Desenvolvimento de um dashboard interativo com dados agregados de segurança viária, permitindo análises comparativas entre estados e indicadores de risco em todo o território nacional
 
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:  
