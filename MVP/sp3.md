@@ -27,27 +27,21 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
-| US3 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US4 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
-| US5 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US6 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US1 | Como analista, quero visualizar um mapa com todos os acidentes registrados para identificar padrões geógraficos e regiões críticas.         | Média       | 5 pontos   |
+| US2 | Como gestor, quero visualizar um ranking de acidentes por estado.         | Alta      | 3 pontos   |
+| US3 | Como analista quero visualizar a distribuição de tipos de acidentes, para entender quais categorias são mais frequentes.         | Média       | 5 pontos   |
+| US4 | Como gestor, quero visualizar o número total de óbitos por acidentes         | Média      | 3 pontos   |
+| US5 | Como analista, quero visualizar a quantidade e tipos de veículos envolvidos, para identificar os veículos mais frequentes em acidentes         | Alta       | 8 pontos   |
+| US6 | Como analista, quero ver um ranking dos estados com mais óbitos.        | Alta      | 8 pontos   |
 
 ---
 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     | KPIs de acidentes, óbitos, taxa de mortalidade e evolução histórica, além do mapa de acidentes com análise geográfica e rankings regionais.                      | Concluído|
+| 02     | indicadores operacionais, trazendo análises por turno, condições da pista, clima e distribuição horária.                          | Concluído |
 
----
-
-## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
 
 ---
 
