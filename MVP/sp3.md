@@ -10,11 +10,11 @@
 
 ---
 
-## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+## 📝 Descrição da Solução  
+- Nessa sprint apresentamos um dashboard interativo desenvolvido em Power BI para análise estratégica de acidentes de trânsito no Brasil, utilizando dados públicos da PRF (RENAEST) e do Observatório Nacional de Segurança Viária.
+- Será desenvolvido um Dashboard Geral com KPIs de acidentes, óbitos, taxa de mortalidade e evolução histórica, além do Mapa de Acidentes com análise geográfica e rankings regionais.
+- Também avançaremos na implementação dos indicadores operacionais, trazendo análises por turno, condições da pista, clima e distribuição horária.
+- Esta sprint estabelece a base visual e analítica do projeto, permitindo que os usuários tenham uma visão clara e interativa.
 
 ---
 
@@ -29,6 +29,10 @@
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
 | US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US3 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
+| US4 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US5 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
+| US6 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
 
 ---
 
