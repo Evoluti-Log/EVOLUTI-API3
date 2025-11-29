@@ -68,10 +68,12 @@ Desenvolver uma ferramenta integrada capaz de consolidar e cruzar dados provenie
 | 11    | Média       | Como analista de dados, quero criar o modelo relacional entre as tabelas para permitir cruzamento entre acidentes e vítimas.  | 5          | 2     |
 | 12    | Média       | Como analista, quero criar dimensões de tempo (ano) para análises temporais.                                                              | 8          | 2     |
 | 13    | Alta       | Como gestor do projeto, quero visualizar o número de acidentes por tipo e UF.                                                                 | 8          | 2     |                     
-| 14    | Média       | Como PM, quero testar o dashboard com gestores públicos para avaliar a experiência de uso | 5          | 3      |
-| 15    | Alta       | Como desenvolvedor, quero ajustar o dashboard conforme sugestões dos usuários para melhorar a utilidade                                                                  | 8          | 3     |
-| 16    | Média       | Como usuário final, quero ter um manual de uso do dashboard para entender todas as funcionalidades                                              | 5          | 3      |
-
+| 14    | Média       | Como analista, eu quero visualizar um mapa com todos os acidentes registrados para identificar padrões geográficos e regiões críticas. | 5          | 3      |
+| 15    | Alta       | Como gestor do projeto, eu quero visualizar um ranking de acidentes por estado.                                                                  | 8          | 3     |
+| 16    | Média       | Como analista, quero visualizar a distribuição de tipos de acidentes para entender quais categorias são mais frequentes.                                              | 5          | 3      |
+| 17   | Média       | Como gestor, quero visualizar o número total de óbitos por acidentes. | 5          | 3      |
+| 18    | Alta       | Como analista, quero visualizar a quantidade e tipos de veículos envolvidos para identificar os veículos mais frequentes em acidentes                                                                  | 8          | 3     |
+| 19    | Alta       | Como analista, eu quero ver um ranking dos estados com mais óbitos.                                                                 | 8          | 3     |
 
 
 
